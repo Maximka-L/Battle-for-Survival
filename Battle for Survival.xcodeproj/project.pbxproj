@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		84A5E9972ABDE0560012741B /* Battle for Survival */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Battle for Survival"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A5E99A2ABDE0560012741B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		84A5E9A12ABDE2680012741B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		84A5E98E2ABDE0560012741B = {
 			isa = PBXGroup;
 			children = (
+				84A5E9A12ABDE2680012741B /* README.md */,
 				84A5E9992ABDE0560012741B /* Battle for Survival */,
 				84A5E9982ABDE0560012741B /* Products */,
 			);
